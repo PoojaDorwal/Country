@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Country</string>
+    <string name="name"> %s</string>
+    <string name="capital">Capital : %s</string>
+    <string name="region">Region : %s</string>
+    <string name="subregion">Subregion : %s</string>
+    <string name="population">Population : %s</string>
+    <string name="borders">Borders : %s</string>
+    <string name="languages">Languages : %s</string>
+
+</resources>
